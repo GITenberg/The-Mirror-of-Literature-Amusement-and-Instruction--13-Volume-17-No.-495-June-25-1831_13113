@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13113#The-Mirror-of-Literature-Amusement-and-Instruction--13-Volume-17-No.-495-June-25-1831
 gutenberg_bookshelf: The Mirror of Literature, Amusement, and Instruction
 gutenberg_issued: '2004-08-04'
 gutenberg_type: Text
